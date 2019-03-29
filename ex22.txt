@@ -1,0 +1,23 @@
+print
+#(octothorpe): if you have a comment that you don't want the computer to show, you add this and it's ignored
++ plus
+- minus
+/ slash
+* asterisk(star)
+% percent(modulus)
+< less than
+> greater than
+>= or <= greater than equal or less than equal
+f or str for formating strings
+end1 or any number
+{} curly braces
+" " double qoutes
+' ' single qoutes
+def
+argv or arg
+_ is a place holder for spaces
+input
+output
+>>> python interpreter
+$ bash console
+raw_bytes
