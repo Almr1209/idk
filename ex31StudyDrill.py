@@ -4,7 +4,7 @@ Do you go through door #1 or door #2?""")
 door = input("> ")
 
 if door == "1":
-    print("There's a giant bear here eating cheese cake.")
+    print("There's a giant bear here sleeping.")
     print("What do you do?")
     print("1. Take the cake.")
     print("2. Scream at the bear.")
@@ -21,9 +21,10 @@ if door == "1":
         
 elif door == "2":
     print("You stare into the endless abyss at Cthulhu's retina.")
-    print("1. Blueberries.")
-    print("2. Yellow jacket clothespins.")
-    print("3. Understanding revolers yelling melodies.")
+    print("What do you wish to take?")
+    print("1. Staff.")
+    print("2. Yellow jacket.")
+    print("3. Daggers.")
     
     insanity = input("> ")
     
@@ -35,5 +36,4 @@ elif door == "2":
         print("Good job!")
         
 else:
-    print("You stumble around and fall on a knife and die.  Good job!")
-# just a brief summary of what happened: the else and if commands let u choose this or that then you choose more stuff but in the end you end up dying. Yay(not really)     
+    print("You stumble around and fall into a pit of alligators and die. Try again.")
